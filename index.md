@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Carpentries @ MIT: Intro to Python/Git"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Hayden Library, The Nexus, 14S-130, 160 Memorial Drive, Cambridge, MA, 02142"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "42.359689"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -216,6 +216,7 @@ special instructions.
 </p>
 {% endif %}
 
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
@@ -261,12 +262,25 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
+{% endcomment %}
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to affliates of the Whitehead Institute at MIT.
+    
+    (We are scheduling a workshop open to all MIT affliates and the public on January 25 - 27, 2023. ) 
 </p>
-{% endcomment %}
+
+<h2 id="registration">Registration</h2>
+<p>
+Registration for <b>Whitehead Institute affliates, MIT opens on Nov 3, 2022</b>.
+
+Registration for <b>affliates to other departments at MIT opens on Dec 2, 2022</b>. 
+
+Please register for the workshop at <a href=https://libcal.mit.edu/calendar/events/carpentries2022-12-08>https://libcal.mit.edu/calendar/events/carpentries2022-12-08</a>.
+
+</p>
+
 
 <hr/>
 
