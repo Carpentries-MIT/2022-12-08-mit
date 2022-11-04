@@ -268,19 +268,16 @@ Edit the text to match who can attend the workshop. For instance:
     <strong>Who can attend?:</strong>
     This workshop is open to affliates of the Whitehead Institute at MIT.
     
-    (We are scheduling a workshop open to all MIT affliates and the public on January 25 - 27, 2023. ) 
+    (We are scheduling another workshop open to all MIT affliates and the public on January 25 - 27, 2023. Please stay tuned. ) 
 </p>
 
 <h2 id="registration">Registration</h2>
 <p>
 Registration for <b>Whitehead Institute affliates, MIT opens on Nov 3, 2022</b>.
 </p>
-<p>
-Registration for <b>affliates to other departments at MIT opens on Dec 2, 2022</b>. 
-</p>
 
 <p>
-Please register for the workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries2022-12-08">https://libcal.mit.edu/calendar/events/carpentries2022-12-08</a>.
+Please register for the workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries2022-12-08">https://libcal.mit.edu/calendar/events/carpentries2022-12-08</a> by Dec 2, 2022.
 </p>
 
 
