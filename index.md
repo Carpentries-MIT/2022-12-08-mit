@@ -277,7 +277,7 @@ Registration for <b>Whitehead Institute affliates, MIT opens on Nov 3, 2022</b>.
 </p>
 
 <p>
-Please register for the workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries2022-12-08">https://libcal.mit.edu/calendar/events/carpentries2022-12-08</a> by Dec 2, 2022.
+Please register for the workshop at <a href="https://carpentries-mit-whitehead.eventbrite.com">https://carpentries-mit-whitehead.eventbrite.com</a> by Dec 2, 2022. Passcode to register is shared with Whitehead Institute affliates via an email. 
 </p>
 
 
